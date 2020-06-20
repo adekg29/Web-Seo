@@ -1,4 +1,4 @@
 Php BACKDOOR
 
 Tutorial
-https://alltutorcyber.org/membuat-redirect-page-website-ke-website-lain/
+https://ryangueltoem.blogspot.com/2018/03/membuat-redirect-page-website-ke.html
